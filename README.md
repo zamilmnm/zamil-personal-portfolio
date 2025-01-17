@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"> 
     <img src="repo_images/banner-01.png" align="center"></img>
 </p>
@@ -183,3 +184,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE)
 # References 👏🏻
 
 - Some Design and Implementation Ideas are taken from [Ashutosh Hathidara's Portfolio Project](https://github.com/ashutosh1919/masterPortfolio) & [Saad Pasta's Portfolio Project](https://github.com/saadpasta/developerFolio)
+=======
+# zamil-personal-portfolio
+Zamil's social and personal portfolio like a personal webpage
+>>>>>>> 2bc1fffb9a67c1744f2255dbca4faf40c6f56ff6
