@@ -3,7 +3,7 @@ import Header from "../../components/header/Header";
 import Footer from "../../components/footer/Footer";
 import TopButton from "../../components/topButton/TopButton";
 import SocialMedia from "../../components/socialMedia/SocialMedia";
-import Button from "../../components/button/Button";
+// import Button from "../../components/button/Button";
 import AddressImg from "./AddressImg";
 import { Fade } from "react-reveal";
 import "./ContactComponent.css";
@@ -40,15 +40,7 @@ class Contact extends Component {
                   {ContactData["description"]}
                 </p>
                 <SocialMedia theme={theme} />
-                <div className="resume-btn-div">
-                  {/*<Button
-                    text="Drop a mail"
-                    newTab={true}
-                    href="mailto:mohamedzamil19@gmail.com?subject=Hello%20Zamil&body=I%20wanted%20to%20reach%20out%20to%20you!"
-                    theme={theme}
-                  /> */}
-                  
-                </div>
+                
                 <h1
                   className="address-heading-text"
                   style={{ color: theme.text }}

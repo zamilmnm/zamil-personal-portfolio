@@ -4,7 +4,7 @@ import "./Greeting.css";
 import Button from "../../components/button/Button";
 import { greeting } from "../../portfolio";
 import { Fade } from "react-reveal";
-import BannerImg from "./BannerImg";
+// import BannerImg from "./BannerImg";
 import Typewriter from "typewriter-effect";
 import myImage from "../../assets/Zamil Image 2024-05-05.jpg";
 // import CompetitiveSites from "../../components/competitiveSites/CompetitiveSites";
